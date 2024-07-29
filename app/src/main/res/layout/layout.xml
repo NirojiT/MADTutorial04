@@ -15,7 +15,7 @@
         android:layout_height="48dp"
         android:ems="10"
         android:inputType="text"
-        android:text="&quot;Enter Email&quot;" />
+        android:text="Enter Email" />
 
     <EditText
         android:id="@+id/edtEmail"
@@ -23,7 +23,7 @@
         android:layout_height="48dp"
         android:ems="10"
         android:inputType="textEmailAddress"
-        android:text='"Enter Email"' />
+        android:text='Enter Email' />
 
     <EditText
         android:id="@+id/edtPassword"
@@ -31,7 +31,7 @@
         android:layout_height="48dp"
         android:ems="10"
         android:inputType="textPassword"
-        android:text='"Enter Password"' />
+        android:text='Enter Password' />
 
     <EditText
         android:id="@+id/edtReTypePassword"
@@ -39,7 +39,7 @@
         android:layout_height="48dp"
         android:ems="10"
         android:inputType="textPassword"
-        android:text='"Re Type Password"' />
+        android:text='Re Type Password' />
 
     <Button
         android:id="@+id/btnSubmit"
